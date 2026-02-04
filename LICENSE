@@ -1,0 +1,72 @@
+PoT-NN Dual License
+====================
+
+This software is available under a dual license model:
+
+1. GNU General Public License v3.0 (GPL-3.0) - For open source use
+2. Commercial License - For proprietary/closed-source use
+
+--------------------------------------------------------------------------------
+
+OPTION 1: GPL-3.0 (Open Source)
+--------------------------------
+
+Copyright (c) 2026 PoT-NN Developers
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+**Summary of GPL-3.0 Requirements:**
+- You must disclose your source code if you distribute the software
+- Derivative works must also be licensed under GPL-3.0
+- You must include the original copyright notice
+- Changes to the code must be documented
+
+--------------------------------------------------------------------------------
+
+OPTION 2: Commercial License
+-----------------------------
+
+For companies and individuals who wish to use PoT-NN in proprietary products
+without the obligations of the GPL license, a commercial license is available.
+
+**Commercial License Benefits:**
+- Use in closed-source products
+- No requirement to disclose your source code
+- No copyleft obligations
+- Priority support available
+
+**To obtain a commercial license, please contact:**
+- Email: [YOUR_EMAIL@example.com]
+- Website: [YOUR_WEBSITE]
+
+--------------------------------------------------------------------------------
+
+Which License Applies to You?
+------------------------------
+
+- **Open Source Projects**: If your project is open source and will be
+  distributed under GPL-3.0 or a compatible license, you can use PoT-NN
+  for free under the GPL-3.0 license.
+
+- **Commercial/Proprietary Use**: If you want to use PoT-NN in a proprietary
+  product without releasing your source code, you need a commercial license.
+
+- **Internal Use**: If you're only using PoT-NN internally and not distributing
+  it, GPL-3.0 does not require you to release your source code. However, if
+  you want dedicated support or prefer clear legal terms, consider a
+  commercial license.
+
+--------------------------------------------------------------------------------
+
+Full GPL-3.0 License Text: https://www.gnu.org/licenses/gpl-3.0.txt

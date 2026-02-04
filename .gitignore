@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+
+# VS Code
+.vscode/
+
+# Project specific temporary files
+debug_log.txt
+output_*.c
+test_output.c
+test_data.h
+main.c
+model.c
+model.h
+*.o
+*.out
+*.exe
+pymp-*
+
+# Data
+data/
+MNIST/
+*.pth
+*.tflite
+*.json
+*.png
+*.csv
+
+# Mac
+.DS_Store
+
+# Brain
+.gemini/
