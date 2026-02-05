@@ -22,9 +22,7 @@
 ## 📦 설치
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/potnn.git
-cd potnn
-pip install -e .
+pip install potnn
 ```
 
 ## 🚀 빠른 시작

@@ -22,9 +22,7 @@ Run neural networks on ultra-low-cost MCUs without hardware multipliers (CH32V00
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/potnn.git
-cd potnn
-pip install -e .
+pip install potnn
 ```
 
 ## 🚀 Quick Start
